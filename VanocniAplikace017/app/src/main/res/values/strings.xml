@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">VanocniAplikace017</string>
+    <!-- Pole citátů/textů pro kalendář -->
+    <string-array name="quotes">
+    <item>„Užijte si dnešní den!“</item>
+    <item>„Zkus být k někomu laskavý!“</item>
+    <item>„Naplánuj něco krásného na Vánoce.“</item>
+    <item>„Zkus připravit oblíbené cukroví.“</item>
+    <item>„Ozdob si stromeček nebo dům.“</item>
+    <item>„Zavolej příteli nebo rodině.“</item>
+    <item>„Zastav se a užij si chvíli klidu.“</item>
+    <item>„Udělej si seznam vánočních přání.“</item>
+        <item>„Vánoce nejsou jen časem, jsou stavem mysli."</item>
+        <item>„Ať vaše Vánoce zahřejí vaše srdce stejně jako šálek horkého kakaa v zimě."</item>
+        <item>„Zacvič si pár dřepů a kliků."</item>
+        <item>„Nezapomeňte, že nejdůležitějším dárkem je přítomnost – přítomnost vás samotných."</item>
+        <item>„Vánoce jsou kouzlem, které nám připomíná, že dávání je krásnější než přijímání."</item>
+        <item>„Šťastné a veselé Vánoce jsou vždy o lidech, kteří je s námi sdílí."</item>
+        <item>„Upečte si vánoční rolku."</item>
+        <item>„Udělej 10 dřepů s výskokem."</item>
+        <item>„Největší dar, který můžeme o Vánocích dát, je čas strávený s těmi, které máme rádi."</item>
+        <item>„Vyjdi si do lesa na procházku"</item>
+        <item>„Udělejte si chvilku s rodinou a pusťe si vánoční pohádky."</item>
+        <item>„Vánoce nejsou o tom, co najdeme pod stromečkem, ale koho najdeme kolem něj."</item>
+        <item>„Udělej pořádný vánoční úklid!"</item>
+        <item>„Zacvič si domácí jógu."</item>
+        <item>„Zkus si vzpomenout na své mrtvé příbuzné a zajít na hřbitov."</item>
+        <item>„Udělej překvapení v podobě snídaně pro tvoji rodinu."</item>
+    </string-array>
+</resources>
